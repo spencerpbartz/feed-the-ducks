@@ -12,7 +12,7 @@
     <div id="central-column" class="container-fluid">
         <div id="search-results" class="row"></div>
         <div id="content">
-          <div><div class="title-text index"><p class="title index">Welcome to the Invoca Developer Portal</p><p class="sub-title">Leverage the power of Invoca in your app or website. Browse the portal sections for all your documentation needs.</p></div><div class="row main-text"><div class="col-md-12"><div>
+          <div><div class="title-text index"><p class="title index">Welcome to the Duck Developer Portal</p><p class="sub-title">Leverage the power of Invoca in your app or website. Browse the portal sections for all your documentation needs.</p></div><div class="row main-text"><div class="col-md-12"><div>
     <a href="basics/index.html">
       <div class="panel index">
         <div class="panel-body index">
